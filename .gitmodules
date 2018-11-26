@@ -1,4 +1,3 @@
 [submodule "CA-ffeine"]
-	path = ca-ffeine
 	path = CA-ffeine
 	url = https://github.com/ajcarvajal/CA-ffeine.git
