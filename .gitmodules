@@ -1,3 +1,6 @@
 [submodule "CA-ffeine"]
 	path = CA-ffeine
 	url = https://github.com/ajcarvajal/CA-ffeine.git
+[submodule "pathfinding"]
+	path = pathfinding
+	url = https://github.com/ajcarvajal/pathfinding.git
